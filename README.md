@@ -1,2 +1,2 @@
 # ECOM2A
- Teoria dos grafos
+ graphs-theory-related-projects

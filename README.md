@@ -1,2 +1,2 @@
 # ECOM2A
- graphs-theory-related-projects
+ graph-theory-related-projects
